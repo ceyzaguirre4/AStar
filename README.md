@@ -1,4 +1,4 @@
-#A*/Dijkstra Pathfinding
+# A*/Dijkstra Pathfinding
 
 My own take on A*/Dijkstra Pathfinding. Its a generalization of the typical process so as to permit any posible implementation while using whatever data-structures and heuristic functions regardless of whether or not the "map" fits in memory.
 
